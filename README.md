@@ -1,6 +1,6 @@
-# vjezba_1
+# Flutter project
 
-A new Flutter project.
+Flutter project for baby supplement.
 
 ## Getting Started
 
